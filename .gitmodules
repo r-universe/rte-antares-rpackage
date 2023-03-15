@@ -3,24 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "antaresEditObject"]
-	path = antaresEditObject
-	url = https://github.com/rte-antares-rpackage/antareseditobject
-	shallow = true
-	registered = true
 [submodule "antaresProcessing"]
 	path = antaresProcessing
 	url = https://github.com/rte-antares-rpackage/antaresprocessing
-	shallow = true
-	registered = true
-[submodule "antaresRead"]
-	path = antaresRead
-	url = https://github.com/rte-antares-rpackage/antaresread
-	shallow = true
-	registered = true
-[submodule "antaresViz"]
-	path = antaresViz
-	url = https://github.com/rte-antares-rpackage/antaresviz
 	shallow = true
 	registered = true
 [submodule "manipulateWidget"]
@@ -31,5 +16,20 @@
 [submodule "spMaps"]
 	path = spMaps
 	url = https://github.com/rte-antares-rpackage/spmaps
+	shallow = true
+	registered = true
+[submodule "antaresEditObject"]
+	path = antaresEditObject
+	url = https://github.com/rte-antares-rpackage/antareseditobject
+	shallow = true
+	registered = true
+[submodule "antaresRead"]
+	path = antaresRead
+	url = https://github.com/rte-antares-rpackage/antaresread
+	shallow = true
+	registered = true
+[submodule "antaresViz"]
+	path = antaresViz
+	url = https://github.com/rte-antares-rpackage/antaresviz
 	shallow = true
 	registered = true

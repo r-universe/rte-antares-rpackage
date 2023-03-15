@@ -1,18 +1,6 @@
 [
   {
-    "package": "antaresEditObject",
-    "oncran": true
-  },
-  {
     "package": "antaresProcessing",
-    "oncran": true
-  },
-  {
-    "package": "antaresRead",
-    "oncran": true
-  },
-  {
-    "package": "antaresViz",
     "oncran": true
   },
   {
@@ -21,6 +9,18 @@
   },
   {
     "package": "spMaps",
+    "oncran": true
+  },
+  {
+    "package": "antaresEditObject",
+    "oncran": true
+  },
+  {
+    "package": "antaresRead",
+    "oncran": true
+  },
+  {
+    "package": "antaresViz",
     "oncran": true
   }
 ]
