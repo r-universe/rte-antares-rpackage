@@ -1,0 +1,9 @@
+[
+  {
+    "package": "antaresRead",
+    "url": "https://github.com/rte-antares-rpackage/antaresRead",
+    "via": ["antaresEditObject"],
+    "branch": "develop",
+    "from": "antaresEditObject"
+  }
+]
