@@ -2,18 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "antaresEditObject"]
-	path = antaresEditObject
-	url = https://github.com/rte-antares-rpackage/antareseditobject
-[submodule "antaresProcessing"]
-	path = antaresProcessing
-	url = https://github.com/rte-antares-rpackage/antaresprocessing
-[submodule "antaresRead"]
-	path = antaresRead
-	url = https://github.com/rte-antares-rpackage/antaresread
-[submodule "antaresViz"]
-	path = antaresViz
-	url = https://github.com/rte-antares-rpackage/antaresviz
 [submodule "manipulateWidget"]
 	path = manipulateWidget
 	url = https://github.com/rte-antares-rpackage/manipulatewidget
