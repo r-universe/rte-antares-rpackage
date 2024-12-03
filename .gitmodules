@@ -11,6 +11,9 @@
 [submodule "antaresRead"]
 	path = antaresRead
 	url = https://github.com/rte-antares-rpackage/antaresread
+[submodule "antaresViz"]
+	path = antaresViz
+	url = https://github.com/rte-antares-rpackage/antaresviz
 [submodule "manipulateWidget"]
 	path = manipulateWidget
 	url = https://github.com/rte-antares-rpackage/manipulatewidget
